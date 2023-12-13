@@ -1,0 +1,15 @@
+/* Styles for the shopping cart items */
+.shopping-cart-item {
+  margin-bottom: 10px;
+}
+
+/* Styles for the buttons */
+.button {
+  padding: 5px 10px;
+  margin-right: 5px;
+}
+
+/* Styles for the liked button */
+.button.liked {
+  color: red;
+}
